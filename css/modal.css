@@ -3,6 +3,7 @@
 }
 .modal-content {
     border-radius: 10px!important;
+    overflow-y: scroll;
     height:100%;
     max-height: 650px;
 }
