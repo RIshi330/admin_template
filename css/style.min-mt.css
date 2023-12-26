@@ -3904,7 +3904,7 @@ blockquote {
 }
 
 .alert-dark {
-  border-color: #333;
+  border-color: #9d0808;
   color: #fff;
 }
 .alert-dark.alert-bg {
@@ -5415,12 +5415,12 @@ blockquote {
 
 .btn-primary {
   color: #fff;
-  border-color: #333;
+  border-color: #9d0808;
   background-color: #9d0808;
 }
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
   color: #fff;
-  border-color: #333;
+  border-color: #9d0808;
   background-color: #9d0808;
 }
 .btn-primary.btn-solid {
@@ -5429,13 +5429,13 @@ blockquote {
   background-color: #fff;
 }
 .btn-primary.btn-solid:hover, .btn-primary.btn-solid:active, .btn-primary.btn-solid:focus {
-  border-color: #333;
+  border-color: #9d0808;
   background-color: #9d0808;
   color: #fff;
 }
 .btn-primary.btn-outline {
   color: #333;
-  border-color: #333;
+  border-color: #9d0808;
   background-color: transparent;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:active, .btn-primary.btn-outline:focus {
@@ -5445,7 +5445,7 @@ blockquote {
 .btn-primary.btn-link {
   background-color: transparent;
   color: #333;
-  border-color: #333;
+  border-color: #9d0808;
 }
 .btn-primary.btn-link:hover, .btn-primary.btn-link:active, .btn-primary.btn-link:focus {
   color: #333;
@@ -5457,7 +5457,7 @@ blockquote {
 
 .btn-dark {
   color: #fff;
-  border-color: #333;
+  border-color: #9d0808;
   background-color: #9d0808;
 }
 .btn-dark:hover, .btn-dark:active, .btn-dark:focus {
@@ -5471,13 +5471,13 @@ blockquote {
   background-color: #fff;
 }
 .btn-dark.btn-solid:hover, .btn-dark.btn-solid:active, .btn-dark.btn-solid:focus {
-  border-color: #333;
+  border-color: #9d0808;
   background-color: #9d0808;
   color: #fff;
 }
 .btn-dark.btn-outline {
   color: #333;
-  border-color: #333;
+  border-color: #9d0808;
   background-color: transparent;
 }
 .btn-dark.btn-outline:hover, .btn-dark.btn-outline:active, .btn-dark.btn-outline:focus {
@@ -5487,7 +5487,7 @@ blockquote {
 .btn-dark.btn-link {
   background-color: transparent;
   color: #333;
-  border-color: #333;
+  border-color: #9d0808;
 }
 .btn-dark.btn-link:hover, .btn-dark.btn-link:active, .btn-dark.btn-link:focus {
   color: #333;
@@ -5588,7 +5588,7 @@ blockquote {
 .btn-white:hover, .btn-white:active, .btn-white:focus {
   color: #fff;
   background-color: #9d0808;
-  border-color: #333;
+  border-color: #9d0808;
 }
 
 .btn-success {
@@ -7896,7 +7896,7 @@ textarea {
 }
 .custom-radio .custom-control-input:checked ~ .custom-control-label.color-dark::after {
   background-color: #9d0808;
-  border-color: #333;
+  border-color: #9d0808;
 }
 
 .custom-checkbox {
@@ -9877,7 +9877,7 @@ body .product-popup {
   transition: background-color 0.3s, border-color 0.3s, color 0.3s, visibility 0.3s, opacity 0.3s, transform 0.3s, -webkit-transform 0.3s;
 }
 .btn-product-icon:hover, .btn-product-icon:active {
-  border-color: #333;
+  border-color: #9d0808;
   color: #fff;
   background-color: #9d0808;
 }
@@ -10037,7 +10037,7 @@ body .product-popup {
 }
 .product-hidden-details .btn-cart:hover {
   background-color: #9d0808;
-  border-color: #333;
+  border-color: #9d0808;
 }
 .product-hidden-details .btn-cart i {
   margin: 0;
@@ -12046,7 +12046,7 @@ padding: 0.3rem 0.5rem;
 }
 .widget-search-products .btn:hover, .widget-search-products .btn:focus, .widget-search-products .btn:active {
   background-color: #9d0808;
-  border-color: #333;
+  border-color: #9d0808;
   color: #fff;
 }
 
@@ -14306,7 +14306,7 @@ padding: 0.3rem 0.5rem;
 .btn-visit:not(.btn-link):active,
 .btn-visit:not(.btn-link):focus {
   background-color: #9d0808;
-  border-color: #333;
+  border-color: #9d0808;
   color: #fff;
 }
 
@@ -14785,7 +14785,7 @@ padding: 0.3rem 0.5rem;
 
 
 .header-top {
-  background: #9d0808
+  background: #9d0808;
   font-size: 1.1rem;
   letter-spacing: -0.027em;
   text-transform: capitalize;
@@ -15491,7 +15491,7 @@ padding: 0.3rem 0.5rem;
   font-size: 1.1rem;
   font-weight: 400;
   line-height: 1.8rem;
-  background: #9d0808
+  background: #9d0808;
   color: #fff;
   text-align: center;
 }
@@ -15508,7 +15508,7 @@ padding: 0.3rem 0.5rem;
   font-size: 1.1rem;
   font-weight: 400;
   line-height: 1.8rem;
-  background: #9d0808
+  background: #9d0808;
   color: #fff;
   text-align: center;
 }
@@ -16234,7 +16234,7 @@ padding: 0.3rem 0.5rem;
   padding-bottom: 0.8rem;
   color: #777;
   border: 1px solid;
-  border-color: #333;
+  border-color: #9d0808;
   border-right: 0;
   background-color: transparent;
   font-size: 1.2rem;
@@ -19253,7 +19253,7 @@ padding: 0.3rem 0.5rem;
 }
 #account-orders .order-action .btn:hover {
   background-color: #9d0808;
-  border-color: #333;
+  border-color: #9d0808;
   color: #fff;
 }
 
@@ -19532,7 +19532,7 @@ padding: 0.3rem 0.5rem;
 }
 .order-subtable tbody .btn:hover, .order-subtable tbody .btn:active, .order-subtable tbody .btn:focus {
   color: #fff;
-  border-color: #333;
+  border-color: #9d0808;
   background-color: #9d0808;
 }
 .order-subtable thead th:not(:last-child),
@@ -21222,7 +21222,7 @@ aside .sp-sidebar-banner span {
   color: #333;
 }
 .review-area .btn:hover, .review-area .btn:focus, .review-area .btn:active {
-  border-color: #333;
+  border-color: #9d0808;
   background-color: #9d0808;
   color: #fff;
 }
