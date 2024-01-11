@@ -1,0 +1,155 @@
+/*✂------------ VOUCHER¸.·´¯`·.´¯`·.¸¸.·´¯`·.¸><(((º>*/
+.color1 {
+	background: #a80000;
+
+}
+.color2 {
+	background: #760e18;
+
+}
+.color3 {
+	background: #760e18;
+
+}
+sup {
+    vertical-align: text-top;
+    top: 0.4em;
+}
+.flights-icon-voucher {
+	font-family: "theme-icons";
+	display: block;
+	font-size: 49px;
+	line-height: 96px;
+	text-align: center;
+	width: 65px;
+	height: 52px;
+	padding-right: 11px;
+}
+.border-top {
+	border-top: 1px solid white;
+	margin: 5px 17px;
+}
+.voucher {
+	margin-bottom: 38px;
+	padding: 17px 0;
+	border-radius: 5px;
+	position: relative;
+	width: 300px;
+	margin: 10px auto;
+	
+
+}
+.voucher-discount {
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid #fff !important;
+	border-radius: 12px 0px 0px 12px;
+	height: 99px;
+	float: left;
+	width: 65%;
+}
+.discount {
+	min-height: 50px;
+	position: relative;
+	font-size: 46px;
+	text-align: right;
+	color: white;
+	height: 85px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.discount:after {
+	content: " ";
+	border-right: 20px solid transparent;
+	border-left: 20px solid transparent;
+	position: absolute;
+	bottom: 0;
+	left: 20%;
+}
+.discount .type {
+	font-size: 12px;
+	margin-top: -30px;
+	text-align: center;
+}
+.descr {
+	color: #fff !important;
+	margin-top: 10px;
+	padding: 20px 8px 15px;
+	font-size: 15px;
+	margin-right: 5px;
+	margin-left: 8px;
+}
+.descr strong {
+	font-size: 23px;
+	font-weight: 700;
+}
+.preprice {
+	line-height: 0em;
+	padding-top: 10px;
+	font-size: 13px;
+	color: #fff;
+	text-align: center;
+}
+.quantity {
+	font-size: 46px;
+	padding-bottom: 25px;
+	text-align: center;
+	font-weight: 500;
+	padding-top: 7px;
+}
+.ends {
+	margin-bottom: -1px;
+}
+.coupon {
+	padding-top: 6px;
+	color: white;
+}
+small {
+	font-size: 14px;
+}
+.btn {
+	margin-top: -16px;
+	font-weight: 500;
+	font-size: 14px;
+	text-align: center;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	white-space: nowrap;
+	padding: 9px 10px;
+	line-height: 1.42857143;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border-radius: 4.64px;
+	border: 1px solid #ffffff;
+	background: rgba(0, 0, 0, 0.3);
+	float: right;
+	min-width: 82px;
+	max-height: 42px;
+}
+.btn:hover {
+	color: #fff;
+	background: rgba(0, 0, 0, 0.5);
+}
+.icon-voucher {
+	float: left;
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid #fff !important;
+	border-right: 3px dashed #fff;
+	border-radius: 0 12px 12px 0;
+	height: 99px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+@media (min-width:992px) {
+#vouchers .container {
+	width: 992px
+}
+}
+
+
+
+/* END of VOUCHER */
